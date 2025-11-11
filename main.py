@@ -186,13 +186,13 @@ def health_check():
                                     "condition": "gt",
                                     "value": 5000000,
                                     "color": "#22c55e",
-                                    "fill": True,
+                                    "fill": False,
                                 },
                                 {
                                     "condition": "lt",
                                     "value": 1000000,
                                     "color": "#f59e0b",
-                                    "fill": True,
+                                    "fill": False,
                                 },
                             ]
                         },
